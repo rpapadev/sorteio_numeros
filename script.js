@@ -1,7 +1,7 @@
 function generateNumber() {
-    var min = 1; // Valor mínimo
-    var max = 100; // Valor máximo
+    const min = 1; // Valor mínimo
+    const max = 100; // Valor máximo
 
-    var randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
+    const randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
     document.getElementById('number').textContent = randomNumber;
   }
