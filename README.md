@@ -26,7 +26,3 @@ const max = 50;
 ## Contribuições
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos, fique à vontade para abrir um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
