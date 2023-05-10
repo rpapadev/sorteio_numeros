@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    background: linear-gradient(to bottom, #98FB98, #87CEFA);
+}
+  
+h1 {
+    color: #333;
+}
+  
+#number {
+    font-size: 48px;
+    margin-top: 50px;
+}
+  
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
